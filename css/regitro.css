@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background: pink;
+}
+
+.form{
+    width: 400px;
+    height: 450px;
+    background: crimson;
+    padding:30px ;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    box-shadow: 7px 13px 37px rebeccapurple;
+
+}
+
+.form h2{
+    font-size: 22px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+
+.controles{
+    width: 100%;
+    background: cyan;
+    padding: 10px;
+    border: 4px;
+    margin-bottom: 16px;
+    border: 2px solid purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    outline: none;
+}
+
+
+.form p{
+    font-size: 15px;
+    color: #000;
+}
+
+.form a{
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+.form a:hover{
+    color: #fff;
+    text-decoration: underline;
+}
+
+
+.form .buttom{
+    border: none;
+    width: 100%;
+    background: purple;
+    padding: 12px;
+    color: #000;
+    margin-left:16px 0;
+    font-size: 16px;
+}
